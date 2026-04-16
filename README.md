@@ -97,3 +97,5 @@ SHAP was used to interpret model predictions and understand feature impact.
 ## 👤 Author
 
 **Muhammad Ali Waris Khan** 
+
+![SHAP Plot](images/feature_analysis_shap.png)
