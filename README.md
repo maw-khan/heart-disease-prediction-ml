@@ -24,7 +24,7 @@ The dataset is included in the repository under the `data/` folder.
 To load:
 
 ```python
-df = pd.read_csv("data/heart_disease.csv")
+df = pd.read_csv("data/heart_disease_uci.csv")
 ```
 ---
 
