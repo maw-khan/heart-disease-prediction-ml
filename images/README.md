@@ -1,8 +1,8 @@
 ## 📊 Visualizations 
 
-![Patients Distribution](images/patients_distribution.png) 
-![Correlation Matrix](images/correlation_matrix.png)
-![Confusion Matrix](images/confusion_matrix.png)
-![Feature Importance](images/feature_importance.png) 
-![SHAP Plot](images/feature_analysis_shap.png)
+![Patients Distribution](images_temp/patients_distribution.png) 
+![Correlation Matrix](images_temp/correlation_matrix.png)
+![Confusion Matrix](images_temp/confusion_matrix.png)
+![Feature Importance](images_temp/feature_importance.png) 
+![SHAP Plot](images_temp/feature_analysis_shap.png)
 
