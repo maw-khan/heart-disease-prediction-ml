@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Machine Learning](https://img.shields.io/badge/ML-XGBoost-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # ❤️ Heart Disease Prediction using Machine Learning
 
 ## 🔬 End-to-End ML Pipeline with Explainability (SHAP)
